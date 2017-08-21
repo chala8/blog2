@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+
+languageCode = "en-us"
+
+title = "Daniel Chala - pagina personal"
+
+theme = "hugo-uno"
+
